@@ -72,7 +72,7 @@
         }
 
         th, td {
-            border: 1px solid #333; /* Made borders darker and more visible */
+            border: 3px solid #0f0000;
             padding: 8px;
             text-align: left;
         }
